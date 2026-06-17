@@ -73,7 +73,15 @@ An interactive dashboard was created using Power BI with data cleaning, DAX meas
 - Power BI Dashboard (.pbix)
 - Superstore Dataset (.csv)
 - Dashboard Screenshots
+## 📸 Dashboard Preview
 
+![Dashboard Overview](dashboard-overview.png)
+
+### Sales Analysis
+![Sales Analysis](sales-analysis.png)
+
+### Profit Analysis
+![Profit Analysis](profit-analysis.png)
 ---
 
 ## 👩‍💻 Author
